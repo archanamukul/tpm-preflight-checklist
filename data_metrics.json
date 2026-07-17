@@ -1,0 +1,112 @@
+[
+  {
+    "team_name": "Alpha Squad",
+    "project_name": "UserAuth Service",
+    "sdlc_stage": "PRD Definition",
+    "metric_name": "Requirements Clarity Score",
+    "metric_value": 7.2,
+    "metric_unit": "score",
+    "threshold_good": 8.0,
+    "threshold_poor": 5.0,
+    "status": "Warning"
+  },
+  {
+    "team_name": "Alpha Squad",
+    "project_name": "UserAuth Service",
+    "sdlc_stage": "PRD Review",
+    "metric_name": "Review Cycle Count",
+    "metric_value": 3,
+    "metric_unit": "count",
+    "threshold_good": 2,
+    "threshold_poor": 4,
+    "status": "Warning"
+  },
+  {
+    "team_name": "Beta Team",
+    "project_name": "Payment Gateway",
+    "sdlc_stage": "Tech Design",
+    "metric_name": "Design Review Duration",
+    "metric_value": 8,
+    "metric_unit": "days",
+    "threshold_good": 5,
+    "threshold_poor": 10,
+    "status": "Warning"
+  },
+  {
+    "team_name": "Beta Team",
+    "project_name": "Payment Gateway",
+    "sdlc_stage": "Coding",
+    "metric_name": "Code Coverage Percentage",
+    "metric_value": 78,
+    "metric_unit": "percentage",
+    "threshold_good": 85,
+    "threshold_poor": 70,
+    "status": "Warning"
+  },
+  {
+    "team_name": "Gamma Engineers",
+    "project_name": "Analytics Dashboard",
+    "sdlc_stage": "PR Review",
+    "metric_name": "Average PR Review Time",
+    "metric_value": 4.5,
+    "metric_unit": "days",
+    "threshold_good": 2,
+    "threshold_poor": 5,
+    "status": "Warning"
+  },
+  {
+    "team_name": "Gamma Engineers",
+    "project_name": "Analytics Dashboard",
+    "sdlc_stage": "Integration Testing",
+    "metric_name": "Test Case Pass Rate",
+    "metric_value": 92,
+    "metric_unit": "percentage",
+    "threshold_good": 90,
+    "threshold_poor": 70,
+    "status": "Good"
+  },
+  {
+    "team_name": "Delta Force",
+    "project_name": "Mobile App V2",
+    "sdlc_stage": "Functional Testing",
+    "metric_name": "Defect Density",
+    "metric_value": 2.3,
+    "metric_unit": "defects per kloc",
+    "threshold_good": 1.5,
+    "threshold_poor": 3.0,
+    "status": "Good"
+  },
+  {
+    "team_name": "Delta Force",
+    "project_name": "Mobile App V2",
+    "sdlc_stage": "Perf Testing",
+    "metric_name": "Response Time P95",
+    "metric_value": 180,
+    "metric_unit": "milliseconds",
+    "threshold_good": 200,
+    "threshold_poor": 500,
+    "status": "Good"
+  },
+  {
+    "team_name": "Epsilon Squad",
+    "project_name": "API Refactor",
+    "sdlc_stage": "Ready To Release",
+    "metric_name": "Rollback Risk Score",
+    "metric_value": 6.8,
+    "metric_unit": "score",
+    "threshold_good": 4.0,
+    "threshold_poor": 7.0,
+    "status": "Poor"
+  },
+  {
+    "team_name": "Alpha Squad",
+    "project_name": "Notification System",
+    "sdlc_stage": "Coding",
+    "metric_name": "Technical Debt Ratio",
+    "metric_value": 28,
+    "metric_unit": "percentage",
+    "threshold_good": 15,
+    "threshold_poor": 25,
+    "status": "Poor"
+  }
+]
